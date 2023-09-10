@@ -4,7 +4,6 @@
 
 <template>
 
-  <p>start</p>
 
 
 </template>
