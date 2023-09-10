@@ -5,3 +5,21 @@
 body {
   
 }
+
+@font-face {
+    font-family: 'PlusJakartaSans';
+    src: url('./fonts/PlusJakartaSans-Bold.woff2');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'PlusJakartaSans';
+    src: url('./fonts/PlusJakartaSans-Medium.woff2');
+    font-weight: medium;
+}
+
+@font-face {
+    font-family: 'PlusJakartaSans';
+    src: url('./fonts/PlusJakartaSans-Regular.woff2');
+    font-weight: normal;
+}
